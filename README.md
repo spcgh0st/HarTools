@@ -2,8 +2,4 @@ This is a small command-line application written in Java for converting HAR (HTT
 
 As all Java applications, it’s cross-platform. All you need is a JRE (Java runtime environment) properly installed. I added two executable wrappers, one for Windows systems (har2csv.exe) and a Bash script for Linux boxes (har2csv).
 
-Usage is pretty strightforward:
-
-har2csv --in <source> --out <destination>
-
-Or type “har2csv --help” to get more info.
+http://www.yamamoto.com.ar/hartools
