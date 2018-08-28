@@ -69,6 +69,7 @@ public class HarFile extends TextFile {
 
         // CSV headers
         csvBuffer.append("url" + csvDelimiter
+            + "host" + csvDelimiter
             + "method" + csvDelimiter
             + "startedDateTime" + csvDelimiter
             + "time" + csvDelimiter
