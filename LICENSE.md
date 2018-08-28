@@ -1,3 +1,4 @@
+Copyright (c) 2018, Ernst de Haan
 Copyright (c) 2015, Federico Yamamoto
 All rights reserved.
 
